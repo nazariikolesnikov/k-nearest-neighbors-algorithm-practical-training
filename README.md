@@ -1,1 +1,1 @@
-# k-nearest-neighbors-algorithm-practical-training
+# K-Nearest Neighbors Algorithm (Practical Training)
